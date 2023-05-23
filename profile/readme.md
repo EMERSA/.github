@@ -39,14 +39,14 @@
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/EMERSA/emersa.github.io"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/EMERSA/emersa.github.io">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/EMERSA/emersa.github.io/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/EMERSA/emersa.github.io/issues">Request Feature</a>
   </p>
 </div>
 
@@ -240,13 +240,13 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/EMERSA/emersa.github.io.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[contributors-url]: https://github.com/EMERSA/emersa.github.io/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/EMERSA/emersa.github.io.svg?style=for-the-badge
+[forks-url]: https://github.com/EMERSA/emersa.github.io/network/members
+[stars-shield]: https://img.shields.io/github/stars/EMERSA/emersa.github.io.svg?style=for-the-badge
+[stars-url]: https://github.com/EMERSA/emersa.github.io/stargazers
+[issues-shield]: https://img.shields.io/github/issues/EMERSA/emersa.github.io.svg?style=for-the-badge
+[issues-url]: https://github.com/EMERSA/emersa.github.io/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555

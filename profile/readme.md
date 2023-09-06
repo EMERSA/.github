@@ -42,7 +42,7 @@
     <a href="https://github.com/EMERSA/emersa.github.io"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/EMERSA/emersa.github.io">View Demo</a>
+    <a href="https://emersa.io">View Demo</a>
     ·
     <a href="https://github.com/EMERSA/emersa.github.io/issues">Report Bug</a>
     ·
